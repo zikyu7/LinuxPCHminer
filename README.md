@@ -1,5 +1,19 @@
 # LinuxPCHminer
-For linux pc
+For linux pc.
+
+# STBminev
+
+# CCMINER GUIDE By tomyrambozha
+thanks for :
+original sourced by : 
+   Christian Buchner ( Christian.Buchner@gmail.com )
+   Christian H. ( Chris84 )
+   Tanguy Pruvot ( tpruvot@github )
+   Darktron [ github for ccminer verus ]
+   Oink70 Android-mining github
+
+
+
 
 curl https://github.com/hellcatz/hminer/releases/download/v0.59.1/hellminer_linux64.tar.gz -L -O -J
 
