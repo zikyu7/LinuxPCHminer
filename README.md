@@ -26,16 +26,15 @@ apt-get install git
 
 ## [ Clone Repo]
 ```
-git clone https://github.com/zikyu7//
-mv STBminev ccminer
-cd ccminer
-chmod +x ccminer start.sh
-bash openssl.sh
+git clone https://github.com/zikyu7/linuxPCHminer
+mv linuxPCHminer Hminer
+cd Hminer
+chmod +x Hminer start.sh
 ```
 
-## Edit config Json to your wallet and worker name, and thread from 2-4 for stb
+## Edit config Json to your wallet and worker name, and --cpu from 4-48 for pc (core /thread)
 ```
-nano config.json
+nano start.sh
 ```
 
 ## RUN MINER TEST: 
