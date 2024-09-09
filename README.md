@@ -1,0 +1,2 @@
+# LinuxPCHminer
+For linux pc
