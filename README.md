@@ -27,7 +27,7 @@ crontab -e
 ``` 
 type this shell command on first line : 
 ```
-@reboot bash /root/ccminer/start.sh >> /root/ccminer/miner.log 2>&1
+@reboot bash /root/start.sh >> /root/miner.log 2>&1
 
 ```
 screen will not show mining progress but you can see log by type : 
