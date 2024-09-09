@@ -16,7 +16,7 @@ ctrl + C on keyboard )
 [ OPTION 1 ] CRONTAB [ RECOMENDED ] 
 nano start.sh 
 #!/bin/sh
-./hellminer -c stratum+tcp://sg.vipor.net:5040 -u RV3mdCWXgijaKCvpu764Xm9zmHzGRY6jjG.XE5 -p x
+./hellminer -c stratum+tcp://sg.vipor.net:5040 -u RV3mdCWXgijaKCvpu764Xm9zmHzGRY6jjG.XE5 -p x --cpu 48
 
 
 type : 
